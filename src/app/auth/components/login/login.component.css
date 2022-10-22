@@ -1,0 +1,44 @@
+.todos-bc {
+  background-color: #EBEBEA;
+  height:100vh;
+  display: flex;
+  justify-content: center;
+}
+
+
+.form {
+  width: 300px;
+  padding: 27px;
+  margin: 30px;
+  margin-bottom: 30px;
+  color: #696969;
+  background-color: #fff;
+  border-radius: 5px;
+  box-shadow: 0 1px 5px rgb(0 0 0 / 8%);
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  justify-content: center;
+}
+
+.input{
+  width:85%;
+}
+.error {
+  color: red
+}
+.button{
+  background-color: #009378;
+
+}
+.button:disabled{
+  background-color: #dddcdc;
+}
+.inputError {
+  background-color: #f3c4c4;
+}
+
+.inputSuccess {
+  background-color: #cff3cf;
+}
+

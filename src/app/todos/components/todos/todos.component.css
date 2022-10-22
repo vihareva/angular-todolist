@@ -1,0 +1,32 @@
+.todos-bc {
+  background-color: #EBEBEA;
+}
+
+.todos-header {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  justify-content: center;
+  color: #393939;
+}
+
+.todos-input {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 20px;
+  gap: 10px;
+}
+
+input {
+  width: 300px;
+  padding: 10px 20px;
+ 
+}
+
+.todos-box {
+  display: flex;
+  gap: 30px;
+  flex-wrap: wrap;
+}
+

@@ -1,0 +1,8 @@
+.box {
+  display: flex;
+  justify-content: space-between;
+}
+/*#00937880-тоже красивый цвет*/
+.completed {
+  background-color: #009378;
+}
